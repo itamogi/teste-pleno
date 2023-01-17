@@ -32,7 +32,7 @@ rquest do callback
 
 # O que você precisa fazer?
 
-Você precisa criar um end-point e que vai receber o callbak e processar ele.
+Você precisa criar um end-point e que vai receber o callbak e processar ele. O processamento do pedido tem que ser através de uma nova API criada também por você e no final do processamento o pedido temque estar em um banco de dados criado ou atualizado.
 
 # Notas
 
