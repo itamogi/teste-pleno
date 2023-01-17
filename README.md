@@ -4,7 +4,10 @@ O Objetivo do teste é verificar como que você usa a lógica de programação e
 # Requisitos da vaga
 Experiência de pelo menos 4 anos com pelo menos com programação,
 Experiência Avançada com Background Jobs
-Experincia com micros serviços
+Experiência com micros serviços
+Experiência em Filas
+Experiência em Bancos não Relacionais
+Experiência em Bancos relacionais
 
 #Diferencias:
 Trabalhado em ambientes com a cultura de aplicação de testes (TDD, testes unitários, automatizados etc)
